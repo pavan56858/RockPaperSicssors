@@ -192,7 +192,7 @@ This project demonstrates:
 **Pavan Kumar**
 - **Email**: pavankumar1292004@gmail.com
 - **GitHub**: [@pavan56858](https://github.com/pavan56858)
-- **LinkedIn**: [Pavan Kumar](www.linkedin.com/in/pavan-kumar-b9a4102b8)
+- **LinkedIn**: [Pavan Kumar](https://www.linkedin.com/in/pavan-kumar-b9a4102b8)
 
 ## License
 
